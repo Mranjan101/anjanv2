@@ -1,15 +1,15 @@
 {
-  "name": "MR-ANJAN🦋",
+  "name": "ANJAN-v2👀🦋",
   "description": "MR-ANJAN Multi Device whatsapp bot",
-  "logo": "https://i.imgur.com/imOAWEN.jpeg",
+  "logo": "https://i.imgur.com/U26K4xG.jpeg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Rudraraj3/Mr-anjannewbot",
-  "website": "https://nezukosupport.vercel.app/",
-  "success_url": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "repository": "https://github.com/Mranjan101/anjanv2",
+  "website": "",
+  "success_url": "https://github.com/Mranjan101/anjanv2",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put ur mr-anjan session id",
+      "description": "put ur Anjanv2 session id",
       "required": true
     },
     "LOGS": {
@@ -19,7 +19,7 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/o3AEXEj.jpeg"
+      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/U26K4xG.jpeg"
      },
      "CAPTION": {
       "description": "enter your media caption",
@@ -34,7 +34,7 @@
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl - image or video",
       "required": "false",
-      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/o3AEXEj.jpeg"
+      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
