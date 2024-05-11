@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rudraraj3/Mr-anjannewbot.git"
+    "url": "git+https://github.com/Mranjan101/anjanv2.git"
   },
   "keywords": [
     "bot",
@@ -22,9 +22,9 @@
   "developer": "ANJAN",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Rudraraj3/Mr-anjannewbot/issues"
+    "url": "https://github.com/Mranjan101/anjanv2/issues"
   },
-  "homepage": "https://github.com/Rudraraj3/Mr-anjannewbot#readme",
+  "homepage": "https://github.com/Mranjan101/anjanv2#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
