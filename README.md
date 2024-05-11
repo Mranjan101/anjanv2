@@ -24,7 +24,7 @@
 
 2. 𝘕𝘰𝘸 𝘋𝘦𝘱𝘭𝘰𝘺
     <br>
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Mranjan101/anjanv2?tab=readme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Mranjan101/Mr-anjannewbot?tab=readme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 ### External-Plugins
