@@ -3,7 +3,7 @@ services:
     name: mr-anjanV2
     env: node
     branch: main
-    repo: https://github.com/Rudraraj3/Mr-anjannewbot.git
+    repo: https://github.com/Mranjan101/anjanv2.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
@@ -18,7 +18,7 @@ services:
       - key: AUTO_STATUS_VIEWS
         value: true
       - key: AUDIO_DATA
-        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
+        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/U26K4xG.jpeg
       - key: HANDLER
         value: /
       - key: WORK_TYPE
