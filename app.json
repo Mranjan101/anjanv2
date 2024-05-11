@@ -1,0 +1,76 @@
+{
+  "name": "MR-ANJAN🦋",
+  "description": "MR-ANJAN Multi Device whatsapp bot",
+  "logo": "https://i.imgur.com/imOAWEN.jpeg",
+  "keywords": ["whatsapp"],
+  "repository": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "website": "https://nezukosupport.vercel.app/",
+  "success_url": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "put ur mr-anjan session id",
+      "required": true
+    },
+    "LOGS": {
+      "description": "need to show message logs ?",
+      "required": false
+     },
+     "AUDIO_DATA": {
+      "description": "audio data , title;artist;image url",
+      "required": "false",
+      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/o3AEXEj.jpeg"
+     },
+     "CAPTION": {
+      "description": "enter your media caption",
+      "required": "false",
+      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
+    },
+       "STICKER_DATA": {
+      "description": "Sticker pack name, eg : 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+      "required": "false",
+      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
+    },
+       "BOT_INFO": {
+      "description": "Bot info : botname;ownername;imageurl - image or video",
+      "required": "false",
+      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/o3AEXEj.jpeg"
+    },
+     "ALWAYS_ONLINE": {
+      "description": "Bot online online : true",
+      "required": "false",
+      "value": "false"
+    },
+    "SUDO": {
+      "description": "add your bot number here for run mr-anjan🦋",
+      "required": false
+    },
+    "WORK_TYPE": {
+      "description": "bot work mode",
+      "required": "true",
+      "value": "private"
+     },
+    "PREFIX": {
+      "description": "Example 1: ^[.,!#]  example 2 ^ 👈🏻 Handlers disable",
+      "required": true,
+       "value":"^[.,]"
+     },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku app name, same as above entered",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku account api key, https://dashboard.heroku.com/account",
+      "required": true
+     }
+ },
+ "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      },
+      {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      }]
+  }

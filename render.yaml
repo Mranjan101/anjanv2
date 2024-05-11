@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: mr-anjanV2
+    env: node
+    branch: main
+    repo: https://github.com/Rudraraj3/Mr-anjannewbot.git
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    autoDeploy: false
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: BOT_INFO
+        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
+      - key: ALWAYS_ONLINE
+        value: true
+      - key: AUTO_STATUS_VIEWS
+        value: true
+      - key: AUDIO_DATA
+        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
+      - key: HANDLER
+        value: /
+      - key: WORK_TYPE
+        value: private
+      - key: SERVER
+        value: render
+      - key: CAPTION
+        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»🌈
+      - key: STICKER_DATA
+        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»
+      - key: SUDO
+        value: 919883457657
+      - key: SERVERURL
+        value:
+      - key: DATABASE_URL
+        sync: false
+      - key: LOGS
+        value: true 
