@@ -13,7 +13,7 @@
 
 2. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
     <br>
-<a href='https://anjan-pair1.onrender.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://mr-anjan-v2.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
@@ -39,10 +39,10 @@
 </a>
 
   ### ᴛʜᴀɴᴋs ᴛᴏ
-- [〆Mr-anjan👀🦋 ː͢»](https://github.com/rudraraj3)
+- [〆Mr-anjan👀🦋 ː͢»]()
 <br><br>
 
 ***
 * Join Group For Help
-<a href="https://chat.whatsapp.com/HBf3zvaGyRaEfMZlKgUSPV"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
+<a href="https://chat.whatsapp.com/KLNTBqPjqCW5Pa8vCzcXBw"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
 
